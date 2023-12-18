@@ -1,6 +1,6 @@
-# Implementación de RAG (Retrieving Augmented Generation) para crear un chatbot experto en Harry Potter e investigación sobre Sistemas Multiagente
+# Implementación de RAG (Retrieving Augmented Generation) para crear un chatbot experto en Harry Potter e investigación sobre Agentes inteligentes
 
-En este proyecto se lleva a cabo la implementación de RAG con el objetivo de crear un chatbot experto en el universo de Harry Potter. Además, se realiza una investigación en profundidad sobre Sistemas Multiagente, donde se plantea una problemática específica, se define la estructura para resolverla y se analiza el rol de los agentes en el sistema.
+En este proyecto se lleva a cabo la implementación de RAG con el objetivo de crear un chatbot experto en el universo de Harry Potter. Además, se realiza una investigación en profundidad sobre Agentes Inteligentes, donde se plantea una problemática específica, se define la estructura para resolverla y se analiza el rol de los agentes en el sistema.
 
 ## Contenido
 
@@ -17,7 +17,7 @@ En el archivo `HP_RAG.ipynb` se encuentra la implementación del modelo RAG. Est
 
 Asegúrate de tener los siguientes elementos antes de ejecutar el código:
 
-- Cuenta en Wikidata
+- Cuenta en Wikidata y sus credenciales
 - API key de HuggingFace
 - Archivo `Kaggle.json`
 
@@ -29,7 +29,6 @@ Asegúrate de tener los siguientes elementos antes de ejecutar el código:
 
 ## Informe
 
-El informe detallado del código implementado y la investigación realizada se encuentra en el archivo `Informe.pdf`. Este documento proporciona una visión general de las decisiones de diseño, los resultados obtenidos y las conclusiones derivadas del proyecto.
+El informe detallado del código implementado y la investigación realizada se encuentra en el archivo `Informe.pdf`. Este documento proporciona una visión general de las decisiones de diseño, los resultados obtenidos y la investigación acerca de los Agentes Inteligentes.
 
-¡Disfruta explorando el mundo de Harry Potter a través de este chatbot experto y sumérgete en la investigación de Sistemas Multiagente!
 
